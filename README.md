@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thewannabecoder
+- 👀 I’m interested in ... python, web development, data science
+- 🌱 I’m currently learning ...python, javascript
+- 💞️ I’m looking to collaborate on ...cool projects
+- 📫 How to reach me ...
